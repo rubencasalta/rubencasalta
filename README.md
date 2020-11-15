@@ -1,10 +1,10 @@
 # Hola. Soy Rubén Casalta
 
 
-- 🔭 Actualmente trabajo en [Omitsis](https://www.omitsis.com/) | [Maneki](https://maneki.es/) | [Makkao](https://www.makkao.com/) | [Tthegap](https://www.tthegap.com/).
+🔭 Actualmente __(Noviembre de 2020)__ trabajo en [Omitsis](https://www.omitsis.com/) | [Maneki](https://maneki.es/) | [Makkao](https://www.makkao.com/) | [Tthegap](https://www.tthegap.com/).
 
 
-## ⚡ Tecnologías en que presuntamente me desenvuelvo
+### ⚡ Tecnologías en que presuntamente me desenvuelvo
 
 ![WordPress](https://img.shields.io/badge/-WordPress-181717?style=flat-square&logo=wordpress)
 ![PHP](http://img.shields.io/badge/-PHP-cccccc?style=flat-square&logo=php)
