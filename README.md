@@ -3,6 +3,7 @@
 
 - 🔭 Actualmente trabajo en [Omitsis](https://www.omitsis.com/) | [Maneki](https://maneki.es/) | [Makkao](https://www.makkao.com/) | [Tthegap](https://www.tthegap.com/).
 
+
 ## ⚡ Tecnologías en que presuntamente me desenvuelvo
 
 ![WordPress](https://img.shields.io/badge/-WordPress-181717?style=flat-square&logo=wordpress)
