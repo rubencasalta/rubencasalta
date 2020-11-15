@@ -1,4 +1,4 @@
-# Hola. Soy rubén Casalta
+# Hola. Soy Rubén Casalta
 
 
 - 🔭 Actualmente trabajo en [Omitsis](https://www.omitsis.com/) | [Maneki](https://maneki.es/) | [Makkao](https://www.makkao.com/) | [Tthegap](https://www.tthegap.com/).
